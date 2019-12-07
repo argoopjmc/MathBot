@@ -1,2 +1,2 @@
 # MathBot
-Chatbot which shiuld be able to solve maths problems
+Chatbot which should be able to solve maths problems
